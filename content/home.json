@@ -32,7 +32,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "ofertas",
+      "title": "Ofertas",
       "headless": false,
       "limit": 12,
       "page": 1
