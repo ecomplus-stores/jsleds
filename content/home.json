@@ -63,6 +63,19 @@
       "title": "Produtos Populares"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "collection_id": "618c2c24deb21f68645e18b4:categories:Ultra LED:/ultra-led",
+      "title": "Ultra LED"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
+    },
+    {
       "type": "page-title",
       "title": "JS LEDS",
       "description": "Loja de artigos de iluminação"
