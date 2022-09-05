@@ -73,7 +73,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "page-title",
