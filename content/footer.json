@@ -1,15 +1,15 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "JS LEDS",
+    "text": "Loja de artigos de iluminação"
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
