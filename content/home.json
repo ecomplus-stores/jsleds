@@ -72,6 +72,10 @@
       "title": "Ultra LED"
     },
     {
+      "type": "page-title",
+      "title": "TODOS OS PRODUTOS"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
