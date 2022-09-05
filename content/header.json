@@ -1,27 +1,37 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Loja de artigos de iluminação mais especializada do norte do Ceará",
+    "link": "https://www.youtube.com/user/jamesseixas17/videos",
+    "background": "#090202",
+    "color": "#17dd13"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Dúvidas? Entre em contato com nossos atendentes!",
+        "link": "https://web.whatsapp.com/send?phone=%2B5588992387473"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/ultra-led?Ultra LED",
+      "/fontes-de-alimentacao?Fontes de Alimentação",
+      "/fitas-de-led?Fitas de LED",
+      "/ultra-led?Ultra LED",
+      "/centrais?Centrais",
+      "/farois-de-milhaneblina?Faróis de Milha/Neblina",
+      "/lampadas-alogenas-philips?Lâmpadas Alógenas",
+      "/farois-auxiliares?Faróis Auxiliares",
+      "/strobo?Strobo"
+    ],
+    "random": 0,
+    "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }
