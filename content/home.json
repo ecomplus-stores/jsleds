@@ -38,6 +38,31 @@
       "page": 1
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/5685-post-super-oferta-promocao-roxo-e-amarelo-2-.png"
+        },
+        {
+          "img": "/img/uploads/5685-post-fone-de-ouvido-gamer-oferta-neon.png"
+        },
+        {
+          "img": "/img/uploads/5685-grid-strobo.png"
+        },
+        {
+          "img": "/img/uploads/5685-post-fone-de-ouvido-gamer-oferta-neon-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Produtos Populares"
+    },
+    {
       "type": "page-title",
       "title": "JS LEDS",
       "description": "Loja de artigos de iluminação"
