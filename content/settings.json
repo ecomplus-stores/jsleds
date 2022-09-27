@@ -1,5 +1,6 @@
 {
   "domain": "jsleds.netlify.app",
+  "repository": "ecomplus-stores/jsleds",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
