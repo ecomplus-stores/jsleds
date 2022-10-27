@@ -3,16 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-10-27T22:46:13.978Z",
-      "end": "2022-11-27T22:46:14.046Z",
-      "offers": [
-        "6358041873321213f8bc02e3"
-      ],
-      "notes": "PROMOÇÃO!\nCorra e garanta o seu!"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 1000,
       "full_width": true,
@@ -27,6 +17,16 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-10-27T22:46:13.978Z",
+      "end": "2022-11-27T22:46:14.046Z",
+      "offers": [
+        "6358041873321213f8bc02e3"
+      ],
+      "notes": "PROMOÇÃO!\nCorra e garanta o seu!"
     },
     {
       "type": "collection-shelf",
