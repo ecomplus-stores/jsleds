@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "Blog JS Leds",
   "meta_description": "",
   "sections": [
     {
@@ -16,6 +16,10 @@
     },
     {
       "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
       "enabled": true
     },
     {
