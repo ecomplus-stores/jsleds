@@ -90,7 +90,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/atacado.gif"
+      "img": "/img/uploads/atacado.gif",
+      "link": "https://jsleds.netlify.app/atacado"
     },
     {
       "type": "page-title",
