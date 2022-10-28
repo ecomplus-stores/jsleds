@@ -89,6 +89,10 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atacado.gif"
+    },
+    {
       "type": "page-title",
       "title": "TODOS OS PRODUTOS"
     },
