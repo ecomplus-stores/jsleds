@@ -8,7 +8,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "JS Leds",
+      "description": "Últimas notícias"
     },
     {
       "type": "blog",
