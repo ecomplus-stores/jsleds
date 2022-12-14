@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.47b6b2a01bdc9e9202bab34b33e9272e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0174db5c0706eebb93f91a61a68e5145.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b0823ec93630a5f0108c500df76fd118.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0821850d8e5e0f2d726d842d23e16d18.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.2b92a32cfe8dc1f284d32d0f6ef3cbc8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "jsleds",
+  "short_name": "jsleds",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "jsleds",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
