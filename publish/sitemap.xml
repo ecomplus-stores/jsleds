@@ -2336,6 +2336,18 @@
     </url>
   
     <url>
+      <loc>https://jsleds.netlify.app/placa-de-led-18w-6-leds-6000k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/modulo-painel-led-p5-16-x-32cm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://jsleds.netlify.app/ultra-led</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
