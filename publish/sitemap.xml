@@ -2372,6 +2372,24 @@
     </url>
   
     <url>
+      <loc>https://jsleds.netlify.app/js-leds</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/mancine</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/osram</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://jsleds.netlify.app/ultra-led</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2535,24 +2553,6 @@
   
     <url>
       <loc>https://jsleds.netlify.app/neon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://jsleds.netlify.app/js-leds</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://jsleds.netlify.app/mancine</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://jsleds.netlify.app/osram</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
