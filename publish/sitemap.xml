@@ -2396,6 +2396,36 @@
     </url>
   
     <url>
+      <loc>https://jsleds.netlify.app/luminria-led-rua-publica-poste-smd-prova-dgua-potncia100w</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/luminria-led-rua-publica-poste-smd-prova-dgua-potncia300w</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/luminria-led-rua-publica-poste-smd-prova-dgua-potncia200w</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/luminria-led-rua-publica-poste-smd-prova-dgua-potncia50w</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://jsleds.netlify.app/luminria-led-rua-publica-poste-smd-prova-dgua-potncia150w</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://jsleds.netlify.app/ultra-led</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
