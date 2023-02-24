@@ -6,11 +6,11 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "repository": "ecomplus-stores/jsleds",
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/jsleds",
   "logo": "/img/uploads/1635340438456-logo.png",
-  "name": "jsleds",
-  "short_name": "jsleds",
+  "name": "JS LEDS",
+  "short_name": " JS LEDS",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#1ac125",
   "icon": "/img/uploads/1635340438456-logo.png",
   "store_id": 5685,
-  "description": "jsleds",
+  "description": "A JS LEDS esta no mercado a mais de 4 anos, levando soluções e produtos de qualidade em led, decorativos, residenciais e automotivos para todo o Brasil.\nVisão: Se estabelecer como referência em distribuição e domínio em LEDs no Brasil.\n\nMissão: Trazer segurança, facilidade e eficiência para nossos clientes, suprindo a carência no oferecimento de produtos de qualidade do ramo de iluminação, alinhado a um atendimento especializado, seguro e honesto.\n\nValores: A JS LEDs baseia suas atividades no valor de honestidade e respeito nas relações com stakeholders, na qualidade nos produtos oferecidos, na eficiência no atendimento as demandas, na competitividade no mercado, no comprometimento com a garantia e informação, e na responsabilidade social.",
   "large_icon": "/img/uploads/1635340438456-logo.png"
 }
