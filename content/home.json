@@ -36,42 +36,30 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
-      "collection_id": "6317b6aa73321213f869aac1:categories:Paineis:/paineis",
-      "sort": "slug",
-      "title": "Painéis de LED"
+      "collection_id": "618c2c24deb21f68645e18b4:categories:Ultra LED:/ultra-led",
+      "sort": "sales",
+      "title": "ULTRA LED",
+      "autoplay": 300
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "Ofertas",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
+      "collection_id": "618d4ba6deb21f68645f698e:categories:Fitas de LED:/fitas-de-led",
       "sort": "sales",
-      "title": "Produtos Populares"
+      "autoplay": 300
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 20,
       "page": 1,
-      "sort": "views",
-      "collection_id": "618c2c24deb21f68645e18b4:categories:Ultra LED:/ultra-led",
-      "title": "Ultra LED"
-    },
-    {
-      "type": "blog",
-      "enabled": true
+      "collection_id": "619642880c7c727225892162:categories:Strobo:/strobo",
+      "sort": "sales",
+      "autoplay": 300
     },
     {
       "type": "responsive-banner",
@@ -88,9 +76,17 @@
       "sort": "sales"
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "page-title",
       "title": "JS LEDS",
       "description": "Loja de artigos de iluminação"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
