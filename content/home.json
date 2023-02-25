@@ -34,11 +34,6 @@
       "notes": "PROMOÇÃO!\nCorra e garanta o seu!"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/16bg-.gif",
-      "link": "https://jsleds.netlify.app/pen-drive-js-leds-usb-2.0-16gb"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -46,29 +41,6 @@
       "collection_id": "6317b6aa73321213f869aac1:categories:Paineis:/paineis",
       "sort": "slug",
       "title": "Painéis de LED"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/story-instagram-promocao-design-de-sobrancelhas-marrom.gif",
-          "link": "https://jsleds.netlify.app/par-de-plugs-rca-macho"
-        },
-        {
-          "img": "/img/uploads/5685-post-fone-de-ouvido-gamer-oferta-neon-1-.png"
-        },
-        {
-          "img": "/img/uploads/ws2815-60lm.png"
-        },
-        {
-          "img": "/img/uploads/story-instagram-promocao-design-de-sobrancelhas-marrom-1-.gif",
-          "link": "https://jsleds.netlify.app/bateria-gp-23a"
-        },
-        {
-          "img": "https://www.tiktok.com/@jsleds/video/7160696965892721925?is_copy_url=1&is_from_webapp=v1",
-          "link": "https://www.tiktok.com/@jsleds/video/7160696965892721925?is_copy_url=1&is_from_webapp=v1"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
