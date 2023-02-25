@@ -50,7 +50,7 @@
       "page": 1,
       "collection_id": "618d4ba6deb21f68645f698e:categories:Fitas de LED:/fitas-de-led",
       "sort": "sales",
-      "autoplay": 300
+      "autoplay": 1000
     },
     {
       "type": "collection-shelf",
@@ -59,7 +59,7 @@
       "page": 1,
       "collection_id": "619642880c7c727225892162:categories:Strobo:/strobo",
       "sort": "sales",
-      "autoplay": 300
+      "autoplay": 2000
     },
     {
       "type": "collection-shelf",
@@ -68,7 +68,8 @@
       "page": 1,
       "collection_id": "6317b6aa73321213f869aac1:categories:Paineis:/paineis",
       "sort": "views",
-      "link": ""
+      "link": "",
+      "autoplay": 1000
     },
     {
       "type": "responsive-banner",
