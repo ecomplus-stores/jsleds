@@ -62,6 +62,15 @@
       "autoplay": 300
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "6317b6aa73321213f869aac1:categories:Paineis:/paineis",
+      "sort": "views",
+      "link": ""
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/atacado.gif",
       "link": "https://jsleds.netlify.app/atacado"
