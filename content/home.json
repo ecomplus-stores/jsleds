@@ -68,11 +68,6 @@
       "autoplay": 300
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/atacado.gif",
-      "link": "https://jsleds.netlify.app/atacado"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
@@ -91,6 +86,11 @@
       "sort": "views",
       "title": "FITAS DE LED",
       "autoplay": 30000
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atacado.gif",
+      "link": "https://jsleds.netlify.app/atacado"
     },
     {
       "type": "page-title",
