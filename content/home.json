@@ -20,6 +20,11 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/aviso-pagamento.png",
+      "link": "https://wa.me/558892387473"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
