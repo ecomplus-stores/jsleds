@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.47b6b2a01bdc9e9202bab34b33e9272e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0174db5c0706eebb93f91a61a68e5145.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b0823ec93630a5f0108c500df76fd118.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0821850d8e5e0f2d726d842d23e16d18.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.2b92a32cfe8dc1f284d32d0f6ef3cbc8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "JS LEDS",
+  "short_name": " JS LEDS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A JS LEDS esta no mercado a mais de 4 anos, levando soluções e produtos de qualidade em led, decorativos, residenciais e automotivos para todo o Brasil.\nVisão: Se estabelecer como referência em distribuição e domínio em LEDs no Brasil.\n\nMissão: Trazer segurança, facilidade e eficiência para nossos clientes, suprindo a carência no oferecimento de produtos de qualidade do ramo de iluminação, alinhado a um atendimento especializado, seguro e honesto.\n\nValores: A JS LEDs baseia suas atividades no valor de honestidade e respeito nas relações com stakeholders, na qualidade nos produtos oferecidos, na eficiência no atendimento as demandas, na competitividade no mercado, no comprometimento com a garantia e informação, e na responsabilidade social.",
+  "background_color": "#ebebeb",
+  "theme_color": "#222831"
+}
