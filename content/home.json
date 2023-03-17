@@ -35,7 +35,7 @@
       "page": 1,
       "sort": "sales",
       "title": "MAIS VENDIDOS",
-      "autoplay": 4000
+      "autoplay": 3000
     },
     {
       "type": "collection-shelf",
@@ -55,7 +55,7 @@
       "collection_id": "619642880c7c727225892162:categories:Strobo:/strobo",
       "sort": "sales",
       "title": "STROBO",
-      "autoplay": 300
+      "autoplay": 3000
     },
     {
       "type": "collection-shelf",
@@ -65,7 +65,7 @@
       "collection_id": "619d1a890c7c72722595a0c1:categories:Kits fitas VU:/kits-vu",
       "sort": "sales",
       "title": "KITS VU",
-      "autoplay": 300
+      "autoplay": 3000
     },
     {
       "type": "collection-shelf",
@@ -75,7 +75,7 @@
       "collection_id": "6317b6aa73321213f869aac1:categories:Paineis:/paineis",
       "sort": "sales",
       "title": "PAINEIS",
-      "autoplay": 300
+      "autoplay": 3000
     },
     {
       "type": "collection-shelf",
@@ -85,7 +85,7 @@
       "collection_id": "618d4ba6deb21f68645f698e:categories:Fitas de LED:/fitas-de-led",
       "sort": "views",
       "title": "FITAS DE LED",
-      "autoplay": 30000
+      "autoplay": 3000
     },
     {
       "type": "responsive-banner",
