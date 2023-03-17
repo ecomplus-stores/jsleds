@@ -97,6 +97,11 @@
       "title": "TODOS OS PRODUTOS"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
       "type": "blog",
       "enabled": true
     },
@@ -108,11 +113,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     }
   ]
 }
