@@ -15,99 +15,9 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/post-instagram-site-novo-minimalista-preto-e-amarelo.png",
       "link": "https://wa.me/558892387473"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "MAIS VENDIDOS",
-      "autoplay": 4000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "618c2c24deb21f68645e18b4:categories:Ultra LED:/ultra-led",
-      "sort": "views",
-      "title": "ULTRA LED",
-      "autoplay": 4000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "619642880c7c727225892162:categories:Strobo:/strobo",
-      "sort": "sales",
-      "title": "STROBO",
-      "autoplay": 4000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "619d1a890c7c72722595a0c1:categories:Kits fitas VU:/kits-vu",
-      "sort": "sales",
-      "title": "KITS VU",
-      "autoplay": 4000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "6317b6aa73321213f869aac1:categories:Paineis:/paineis",
-      "sort": "sales",
-      "title": "PAINEIS",
-      "autoplay": 3000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "618d83270c7c7272257ca04c:categories:Fitas Digitais:/fitas-digitais",
-      "sort": "views",
-      "title": "FITAS DIGITAIS",
-      "autoplay": 4000
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/atacado.gif",
-      "link": "https://jsleds.netlify.app/atacado"
-    },
-    {
-      "type": "page-title",
-      "title": "TODOS OS PRODUTOS"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "JS LEDS",
-      "description": "Loja de artigos de iluminação"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     }
   ]
 }
